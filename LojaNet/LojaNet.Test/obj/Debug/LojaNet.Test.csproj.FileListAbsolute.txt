@@ -1,0 +1,52 @@
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.Test.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.Test.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.DAL.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.Models.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.DAL.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.Models.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\obj\Debug\LojaNet.Test.csprojResolveAssemblyReference.cache
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\obj\Debug\LojaNet.Test.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\obj\Debug\LojaNet.Test.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.BLL.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.BLL.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\EntityFramework.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.DAL.dll.config
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\EntityFramework.xml
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.Test.dll.config
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.Test.dll.config
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.Test.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.Test.pdb
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\EntityFramework.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.BLL.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.DAL.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.Models.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.BLL.pdb
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.DAL.pdb
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.DAL.dll.config
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\LojaNet.Models.pdb
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\EntityFramework.xml
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\obj\Debug\LojaNet.Test.csprojResolveAssemblyReference.cache
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\obj\Debug\LojaNet.Test.csproj.CoreCompileInputs.cache
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\obj\Debug\LojaNet.Test.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Test\obj\Debug\LojaNet.Test.pdb

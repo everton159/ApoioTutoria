@@ -1,0 +1,14 @@
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\bin\Debug\ClienteRestWindows.exe.config
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\bin\Debug\ClienteRestWindows.exe
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\bin\Debug\ClienteRestWindows.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\obj\Debug\ClienteRestWindows.csprojResolveAssemblyReference.cache
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\obj\Debug\ClienteRestWindows.Form1.resources
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\obj\Debug\ClienteRestWindows.Properties.Resources.resources
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\obj\Debug\ClienteRestWindows.csproj.GenerateResource.Cache
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\obj\Debug\ClienteRestWindows.exe
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServicoRest\ClienteRestWindows\obj\Debug\ClienteRestWindows.pdb

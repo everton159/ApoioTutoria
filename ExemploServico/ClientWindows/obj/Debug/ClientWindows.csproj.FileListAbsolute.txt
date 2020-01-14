@@ -1,0 +1,9 @@
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServico\ClientWindows\bin\Debug\ClientWindows.exe.config
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServico\ClientWindows\bin\Debug\ClientWindows.exe
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServico\ClientWindows\bin\Debug\ClientWindows.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServico\ClientWindows\obj\Debug\ClientWindows.csprojResolveAssemblyReference.cache
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServico\ClientWindows\obj\Debug\ClientWindows.Form1.resources
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServico\ClientWindows\obj\Debug\ClientWindows.Properties.Resources.resources
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServico\ClientWindows\obj\Debug\ClientWindows.csproj.GenerateResource.Cache
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServico\ClientWindows\obj\Debug\ClientWindows.exe
+C:\Users\Impacta\Documents\Grasso\Curso CSII\ExemploServico\ClientWindows\obj\Debug\ClientWindows.pdb

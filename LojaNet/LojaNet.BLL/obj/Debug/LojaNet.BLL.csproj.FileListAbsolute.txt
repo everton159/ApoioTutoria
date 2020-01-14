@@ -1,0 +1,25 @@
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.BLL.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.BLL.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.DAL.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.Models.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.DAL.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.Models.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\obj\Debug\LojaNet.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\obj\Debug\LojaNet.BLL.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\obj\Debug\LojaNet.BLL.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.DAL.dll.config
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.BLL\bin\Debug\EntityFramework.xml
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.BLL.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.BLL.pdb
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.DAL.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.Models.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\bin\Debug\EntityFramework.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.DAL.pdb
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.DAL.dll.config
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\bin\Debug\LojaNet.Models.pdb
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\bin\Debug\EntityFramework.xml
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\obj\Debug\LojaNet.BLL.csprojResolveAssemblyReference.cache
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\obj\Debug\LojaNet.BLL.csproj.CoreCompileInputs.cache
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\obj\Debug\LojaNet.BLL.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.BLL\obj\Debug\LojaNet.BLL.pdb

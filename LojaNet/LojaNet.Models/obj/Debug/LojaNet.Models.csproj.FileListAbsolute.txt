@@ -1,0 +1,11 @@
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Models\bin\Debug\LojaNet.Models.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Models\bin\Debug\LojaNet.Models.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Models\obj\Debug\LojaNet.Models.dll
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Models\obj\Debug\LojaNet.Models.pdb
+C:\Users\Impacta\Documents\Grasso\Curso CSII\LojaNet\LojaNet.Models\obj\Debug\LojaNet.Models.csprojResolveAssemblyReference.cache
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Models\bin\Debug\LojaNet.Models.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Models\bin\Debug\LojaNet.Models.pdb
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Models\obj\Debug\LojaNet.Models.csproj.CoreCompileInputs.cache
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Models\obj\Debug\LojaNet.Models.dll
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Models\obj\Debug\LojaNet.Models.pdb
+E:\Grasso\Impacta\Online\CSII\LojaNet\LojaNet.Models\obj\Debug\LojaNet.Models.csprojResolveAssemblyReference.cache
